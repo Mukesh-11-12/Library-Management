@@ -30,7 +30,8 @@ USECASE:
 
 SEQUENCE:
 
-<img width="1234" height="1014" alt="image" src="https://github.com/user-attachments/assets/fd18c66b-427a-403a-9887-adcd3cf3918e" />
+<img width="1171" height="1010" alt="image" src="https://github.com/user-attachments/assets/aa03d211-f7b7-4bd8-9715-26de9a3d04a9" />
+
 
 PACKAGE:
 
