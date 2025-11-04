@@ -43,7 +43,7 @@ COMMUNICATION:
 
 CLASS:
 
-<img width="1236" height="1015" alt="image" src="https://github.com/user-attachments/assets/9738fc12-6243-4fa2-b52a-0977e3c6e89e" />
+![WhatsApp Image 2025-11-04 at 11 37 57_01ea4eeb](https://github.com/user-attachments/assets/49b5e051-cd64-4051-841e-cd8fb6571602)
 
 ACTIVITY:
 
